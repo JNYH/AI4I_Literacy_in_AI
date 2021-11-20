@@ -56,3 +56,6 @@ https://gallery.azure.ai/Experiment/Finance-Credit-Risk-Classification
 A model which predicts customer churn
 
 https://gallery.azure.ai/Experiment/Telco-Churn
+
+![image](https://user-images.githubusercontent.com/52286325/142729301-f0f7f36a-ecf8-4614-9175-879bbf9af812.png)
+
