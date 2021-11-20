@@ -1,0 +1,144 @@
+AI4I - Literacy in AI
+
+
+
+Machine Learning For Everyone Quiz
+
+Machine learning finds patterns in existing data and applies the patterns to new data. Is this true or false?
+True <-answer
+False
+
+What is a target variable?
+The most important variable for predicting the output.
+The variable that you do not have data for and still need to obtain.
+The value that you are trying to predict. <-answer
+
+Which type of machine learning is normally used for customer segmentation?
+Supervised Learning
+Unsupervised Learning <-answer
+
+What is a confusion matrix?
+A way to evaluate classification models. <-answer
+A way that computers use to create classification models.
+An advanced way for computers to organize machine learning data.
+
+What are hyperparameters?
+Inputs to a machine learning algorithm that can be changed. <-answer
+A type of classification model.
+
+What is one disadvantage of deep learning?
+It is difficult to explain how the AI arrives at its predictions. The model becomes a 'black box'. <-answer
+It is less accurate.
+It only works for a few types of machine learning problems.
+
+
+
+AIET-3 Ethics Issues In Product and Model Design Quiz
+
+Suppose we have evaluated an AI product to have a likely and severe negative impact when the model fails. What can we do to reduce negative impact caused by AI?
+Introduce a human-out-of-the-loop model, ie. allow the AI full control over the decision-making process, with no easy human override.
+Introduce a human-in-the-loop model, ie. require a human to make affirmative action on all decisions, with the AI making recommendations. <-answer
+Make the model creation open-source.
+
+Suppose we have evaluated an AI product which uses facial recognition to identify criminal fugitives. We believe that it is a very negative outcome if innocent civilians are being wrongly identified and taken into custody. Which of the following is true?
+The negative impact of false positives is high, so we should lower the confidence needed to identify suspected fugitives.
+The negative impact of false negatives is high, so we should lower the confidence needed to identify suspected fugitives.
+The negative impact of false positives is high, so we should increase the confidence needed to identify suspected fugitives. <-answer
+The negative impact of false negatives is high, so we should increase the confidence needed to identify suspected fugitives.
+
+
+
+AIET-4 Ethics Issues in Data Collection and Access Quiz
+
+What is the ethical concern when a dataset is not representative?
+The model is more likely to be inaccurate.
+The model is more likely to be less transparent because it is missing data.
+The model is more likely to be unfair, performing poorly for under-represented user groups. <-answer
+The model is likely to have more false negatives.
+
+Which of the following is NOT a way to address the privacy and consent concerns of the people we collect data on?
+De-identify data by masking and deleting information to make it difficult or impossible to re-identify the subjects of the data.
+Give users the option to opt out of their data being used.
+Test the data make sure it is fair to different user subgroups. <-answer
+Restrict access to the data and take security measures to protect the data.
+
+
+
+AIET-5 Ethics Issues in Model Evaluation Quiz
+
+What is the main ethics issue that can be identified in the model evaluation process?
+The issue of privacy: whether user data can lead to their re-identification.
+The issue of accountability: whether AI engineers take responsibility for their role in the model evaluation.
+The issue of fairness: whether different user subgroups are treated equitably or whether any of them are being disadvantaged. <-answer
+The issue of consent: whether users give permission to the use of their data in the training of AI models.
+
+
+
+AIET-7 Resources and readings on AI Ethics
+1. Singapore: PDPC Model AI Governance Framework and Self-Assessment Tool
+https://www.pdpc.gov.sg/-/media/Files/PDPC/PDF-Files/Resource-for-Organisation/AI/SGIsago.pdf
+
+2. World Government Summit 2019: AI Ethics: The Next Big Thing In Government
+https://www.worldgovernmentsummit.org/docs/default-source/default-document-library/deloitte-wgs-report-en-lq.pdf?sfvrsn=1acfc90b_0
+
+3. Microsoft: research paper on Fairness in AI
+https://pdfs.semanticscholar.org/58bb/221c1e375f254826b7b7341f74057e87676c.pdf
+
+4. Google AI: Perspectives on Issues in AI Governance
+https://ai.google/static/documents/perspectives-on-issues-in-ai-governance.pdf
+
+
+
+AI4I-Basic-Q: Practice Quiz
+
+What is the objective of the AI project?
+To determine the right number of bicycles to have ready.
+To forecast demand for bicycle rentals. <-answer
+To forecast weather.
+To forecast temperature.
+
+What type of model was used initially in the project?
+Decision tree.
+Support vector machines.
+K-Nearest Neighbors.
+Linear regression. <-answer
+
+What was the model changed to?
+Support vector machines.
+K-Nearest Neighbors.
+Boosted Decision Tree. <-answer
+Linear regression.
+
+Why was the type of model changed?
+To increase its accuracy. <-answer
+The first model cannot work for this problem.
+To increase the speed of model training.
+
+What are the features of a model?
+The inputs used to make the prediction. <-answer
+The variable to be predicted.
+The advantages and disadvantages of the model.
+The evaluated accuracy scores of the model.
+
+
+
+AI4I-Basic: Additional Practice
+
+Demand Forecast of Time Series Data
+https://gallery.azure.ai/Experiment/Demand-Forecast-of-Time-Series-Data
+
+A model recommending e-commerce products to users
+https://gallery.azure.ai/Experiment/E-commerce-Product-Recommender
+
+A model which segments customers
+https://gallery.azure.ai/Experiment/Marketing-Customer-Segmentation
+
+A model which predicts the credit risk for suppliers and customers
+https://gallery.azure.ai/Experiment/Corporate-Credit-Risk-Prediction
+
+A model which predicts the credit risk of individual borrowers
+https://gallery.azure.ai/Experiment/Finance-Credit-Risk-Classification
+
+A model which predicts customer churn
+https://gallery.azure.ai/Experiment/Telco-Churn
+
